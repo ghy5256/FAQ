@@ -45,7 +45,7 @@ Ipv6仅能在校园网网络下使用!翼讯不可以!手机热点不可以!
 **第二步**
 ----------
 
-首先访问<https://github.com/le\nnylxx/ipv6-hosts>,
+首先访问<https://github.com/lennylxx/ipv6-hosts>,
 
 >   点这个
 
